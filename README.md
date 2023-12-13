@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Install software in a Linux distribution](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GRC Analyst](https://github.com/AsiaLowen/GRC-Analyst)
 
 
 <h2> Certifications </h2>
